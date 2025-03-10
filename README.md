@@ -1,10 +1,10 @@
-#License Plate Detection and Recognition using YOLOv8
+# License Plate Detection and Recognition using YOLOv8
 
-Overview
+## Overview
 
 This project utilizes YOLOv8 for license plate detection and YOLOv8-OBB (Oriented Bounding Box) for character recognition. The system detects license plates from images or videos, recognizes characters, and overlays the detected text back onto the media.
 
-Pipeline
+## Pipeline
 
 License Plate Detection: YOLOv8 is used to detect license plates in images or video frames.
 
