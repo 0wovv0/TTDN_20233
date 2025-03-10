@@ -1,0 +1,5 @@
+train: C:\\Users\\Hokta\\OneDrive\\Máy tính\\TTDN_20233\\DataSet\\images\\train
+val: C:\Users\Hokta\OneDrive\Máy tính\TTDN_20233\DataSet\images\val
+
+nc: 2
+names: ['vertical', 'horizontal']
